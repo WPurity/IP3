@@ -45,7 +45,7 @@ On your computer open terminal and run:
 
 ## Links
 
-- Live Site URL: [Delani-Studio]()
+- Live Site URL: [Delani-Studio](https://wpurity.github.io/IP3/)
 
 [Go Back to the top](#Deleni_Studio)
 
