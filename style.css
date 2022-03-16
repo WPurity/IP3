@@ -30,6 +30,16 @@ body {
     padding-top: 0px;
 }
 
+.container1{
+    height:100vh;
+}
+
+.container-content{
+    padding-top: 25%;
+    color: white;
+    font-weight: 600;
+}
+
 #mouse {
     padding-top: 20px;
     margin-top: 8%;
